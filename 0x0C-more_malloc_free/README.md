@@ -6,3 +6,6 @@
 
 >>> 2-calloc.c
 	- allocates memory for an array, using malloc
+
+>>> 3-array-range.c
+	- creates an array of integers
