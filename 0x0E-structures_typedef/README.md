@@ -6,3 +6,6 @@
 
 >>> 2-print_dog.c
 	- prints a struct dog
+
+>>> dog.h
+	- defines a new type dog_t as a new name for the type struct dog
