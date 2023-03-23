@@ -6,3 +6,6 @@
 
 >>> 2-print_strings.c
 	- prints strings, followed by a new line
+
+>>> 3-print_all.c
+	- prints anything
